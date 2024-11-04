@@ -1,0 +1,38 @@
+quit
+read_aiger ../../benchmarks/adder.aig
+to_npz
+help
+write_npz
+write_npz -help
+write_npz -d -c
+write_npz  -c
+write_npz -c
+write_npz -d
+write_npz -d floorplam
+write_npz -d -c
+write_npz -d ./placement/floorplan.def -c ./placement/test.csv
+quit
+read_aiger ../../benchmarks/adder.aig
+write_npz -c ./placement/test.csv -d ./placement/floorplan.def
+read_aiger ../../benchmarks/adder.aig
+write_npz -c ./placement/test1.csv
+write_npz -d ./placement/floorplan.def
+quit
+read_aiger ../../benchmarks/adder.aig
+write_npz -c ./placement/test.csv -d ./placement/floorplan.def
+quit
+read_aiger ../../benchmarks/adder.aig
+read_genlib ../../src/asap7.genlib
+techmap -z -d ./def_file/adder.def -o adder.v
+read_aiger ../../benchmarks/adder.aig
+read_genlib ../../src/asap7.genlib
+techmap -z -d ./def_file/adder.def -o adder.v
+quit
+read_genlib -f ../../benchmarks/adder.aig
+read_genlib ../../benchmarks/adder.aig
+read_genlib ../../benchmarks/adder.aig
+read_genlib ../../benchmarks/voter.aig.aig
+read_genlib ../../benchmarks/voter.aig
+read_genlib genlib_file/asap7.genlib
+read_genlib -f  genlib_file/asap7.genlib
+read_genlib -h

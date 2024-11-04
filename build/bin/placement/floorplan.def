@@ -1,0 +1,2813 @@
+COMPONENTS 632 ;
+   - gate_258_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_259_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_260_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_261_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_262_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_263_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_264_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_265_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_266_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_267_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_268_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_269_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_270_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_271_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_272_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_273_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_274_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_275_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_276_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_277_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_278_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_279_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_280_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_281_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_282_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_283_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_284_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_285_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_286_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_287_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_288_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_289_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_290_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_291_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_292_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_293_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_294_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_295_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_296_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_297_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_298_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_299_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_300_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_301_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_302_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_303_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_304_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_305_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_306_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_307_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_308_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_309_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_310_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_311_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_312_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_313_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_314_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_315_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_316_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_317_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_318_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_319_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_320_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_321_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_322_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_323_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_324_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_325_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_326_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_327_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_328_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_329_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_330_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_331_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_332_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_333_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_334_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_335_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_336_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_337_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_338_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_339_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_340_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_341_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_342_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_343_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_344_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_345_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_346_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_347_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_348_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_349_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_350_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_351_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_352_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_353_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_354_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_355_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_356_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_357_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_358_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_359_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_360_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_361_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_362_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_363_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_364_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_365_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_366_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_367_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_368_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_369_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_370_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_371_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_372_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_373_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_374_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_375_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_376_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_377_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_378_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_379_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_380_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_381_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_382_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_383_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_384_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_385_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_386_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_387_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_388_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_389_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_390_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_391_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_392_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_393_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_394_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_395_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_396_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_397_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_398_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_399_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_400_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_401_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_402_ OR2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_403_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_404_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_405_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_406_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_407_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_408_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_409_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_410_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_411_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_412_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_413_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_414_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_415_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_416_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_417_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_418_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_419_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_420_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_421_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_422_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_423_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_424_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_425_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_426_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_427_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_428_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_429_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_430_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_431_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_432_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_433_ OR2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_434_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_435_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_436_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_437_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_438_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_439_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_440_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_441_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_442_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_443_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_444_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_445_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_446_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_447_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_448_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_449_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_450_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_451_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_452_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_453_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_454_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_455_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_456_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_457_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_458_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_459_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_460_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_461_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_462_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_463_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_464_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_465_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_466_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_467_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_468_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_469_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_470_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_471_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_472_ OR2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_473_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_474_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_475_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_476_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_477_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_478_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_479_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_480_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_481_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_482_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_483_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_484_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_485_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_486_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_487_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_488_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_489_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_490_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_491_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_492_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_493_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_494_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_495_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_496_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_497_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_498_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_499_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_500_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_501_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_502_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_503_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_504_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_505_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_506_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_507_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_508_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_509_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_510_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_511_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_512_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_513_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_514_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_515_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_516_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_517_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_518_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_519_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_520_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_521_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_522_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_523_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_524_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_525_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_526_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_527_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_528_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_529_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_530_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_531_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_532_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_533_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_534_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_535_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_536_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_537_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_538_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_539_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_540_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_541_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_542_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_543_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_544_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_545_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_546_ OR2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_547_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_548_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_549_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_550_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_551_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_552_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_553_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_554_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_555_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_556_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_557_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_558_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_559_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_560_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_561_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_562_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_563_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_564_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_565_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_566_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_567_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_568_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_569_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_570_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_571_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_572_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_573_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_574_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_575_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_576_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_577_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_578_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_579_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_580_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_581_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_582_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_583_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_584_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_585_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_586_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_587_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_588_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_589_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_590_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_591_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_592_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_593_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_594_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_595_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_596_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_597_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_598_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_599_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_600_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_601_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_602_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_603_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_604_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_605_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_606_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_607_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_608_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_609_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_610_ OR2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_611_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_612_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_613_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_614_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_615_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_616_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_617_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_618_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_619_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_620_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_621_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_622_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_623_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_624_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_625_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_626_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_627_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_628_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_629_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_630_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_631_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_632_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_633_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_634_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_635_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_636_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_637_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_638_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_639_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_640_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_641_ OR2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_642_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_643_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_644_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_645_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_646_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_647_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_648_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_649_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_650_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_651_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_652_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_653_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_654_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_655_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_656_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_657_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_658_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_659_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_660_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_661_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_662_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_663_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_664_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_665_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_666_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_667_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_668_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_669_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_670_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_671_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_672_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_673_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_674_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_675_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_676_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_677_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_678_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_679_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_680_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_681_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_682_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_683_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_684_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_685_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_686_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_687_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_688_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_689_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_690_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_691_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_692_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_693_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_694_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_695_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_696_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_697_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_698_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_699_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_700_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_701_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_702_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_703_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_704_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_705_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_706_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_707_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_708_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_709_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_710_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_711_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_712_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_713_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_714_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_715_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_716_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_717_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_718_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_719_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_720_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_721_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_722_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_723_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_724_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_725_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_726_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_727_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_728_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_729_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_730_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_731_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_732_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_733_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_734_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_735_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_736_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_737_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_738_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_739_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_740_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_741_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_742_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_743_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_744_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_745_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_746_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_747_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_748_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_749_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_750_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_751_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_752_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_753_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_754_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_755_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_756_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_757_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_758_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_759_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_760_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_761_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_762_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_763_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_764_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_765_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_766_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_767_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_768_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_769_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_770_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_771_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_772_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_773_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_774_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_775_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_776_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_777_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_778_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_779_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_780_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_781_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_782_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_783_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_784_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_785_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_786_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_787_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_788_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_789_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_790_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_791_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_792_ OR2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_793_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_794_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_795_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_796_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_797_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_798_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_799_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_800_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_801_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_802_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_803_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_804_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_805_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_806_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_807_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_808_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_809_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_810_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_811_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_812_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_813_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_814_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_815_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_816_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_817_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_818_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_819_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_820_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_821_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_822_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_823_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_824_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_825_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_826_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_827_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_828_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_829_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_830_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_831_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_832_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_833_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_834_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_835_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_836_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_837_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_838_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_839_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_840_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_841_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_842_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_843_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_844_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_845_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_846_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_847_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_848_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_849_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_850_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_851_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_852_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_853_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_854_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_855_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_856_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_857_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_858_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_859_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_860_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_861_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_862_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_863_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_864_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_865_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_866_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_867_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_868_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_869_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_870_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_871_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_872_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_873_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_874_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_875_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_876_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_877_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_878_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_879_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_880_ AND2x2_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_881_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_882_ XOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_883_ MAJIxp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_884_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_885_ NAND2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_886_ INVx1_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_887_ NOR2xp33_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_888_ XNOR2xp5_ASAP7_75t_R
+      + UNPLACED ;
+   - gate_889_ OAI21xp33_ASAP7_75t_R
+      + UNPLACED ;
+END COMPONENTS
+
+PINS 386 ;
+   - output_0 + NET output_0
+      + DIRECTION OUTPUT
+      + PLACED ( 0 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_1 + NET output_1
+      + DIRECTION OUTPUT
+      + PLACED ( 10 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_2 + NET output_2
+      + DIRECTION OUTPUT
+      + PLACED ( 20 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_3 + NET output_3
+      + DIRECTION OUTPUT
+      + PLACED ( 30 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_4 + NET output_4
+      + DIRECTION OUTPUT
+      + PLACED ( 40 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_5 + NET output_5
+      + DIRECTION OUTPUT
+      + PLACED ( 50 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_6 + NET output_6
+      + DIRECTION OUTPUT
+      + PLACED ( 60 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_7 + NET output_7
+      + DIRECTION OUTPUT
+      + PLACED ( 70 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_8 + NET output_8
+      + DIRECTION OUTPUT
+      + PLACED ( 80 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_9 + NET output_9
+      + DIRECTION OUTPUT
+      + PLACED ( 90 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_10 + NET output_10
+      + DIRECTION OUTPUT
+      + PLACED ( 100 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_11 + NET output_11
+      + DIRECTION OUTPUT
+      + PLACED ( 110 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_12 + NET output_12
+      + DIRECTION OUTPUT
+      + PLACED ( 120 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_13 + NET output_13
+      + DIRECTION OUTPUT
+      + PLACED ( 130 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_14 + NET output_14
+      + DIRECTION OUTPUT
+      + PLACED ( 140 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_15 + NET output_15
+      + DIRECTION OUTPUT
+      + PLACED ( 150 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_16 + NET output_16
+      + DIRECTION OUTPUT
+      + PLACED ( 160 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_17 + NET output_17
+      + DIRECTION OUTPUT
+      + PLACED ( 170 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_18 + NET output_18
+      + DIRECTION OUTPUT
+      + PLACED ( 180 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_19 + NET output_19
+      + DIRECTION OUTPUT
+      + PLACED ( 190 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_20 + NET output_20
+      + DIRECTION OUTPUT
+      + PLACED ( 200 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_21 + NET output_21
+      + DIRECTION OUTPUT
+      + PLACED ( 210 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_22 + NET output_22
+      + DIRECTION OUTPUT
+      + PLACED ( 220 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_23 + NET output_23
+      + DIRECTION OUTPUT
+      + PLACED ( 230 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_24 + NET output_24
+      + DIRECTION OUTPUT
+      + PLACED ( 240 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_25 + NET output_25
+      + DIRECTION OUTPUT
+      + PLACED ( 250 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_26 + NET output_26
+      + DIRECTION OUTPUT
+      + PLACED ( 260 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_27 + NET output_27
+      + DIRECTION OUTPUT
+      + PLACED ( 270 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_28 + NET output_28
+      + DIRECTION OUTPUT
+      + PLACED ( 280 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_29 + NET output_29
+      + DIRECTION OUTPUT
+      + PLACED ( 290 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_30 + NET output_30
+      + DIRECTION OUTPUT
+      + PLACED ( 300 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_31 + NET output_31
+      + DIRECTION OUTPUT
+      + PLACED ( 310 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_32 + NET output_32
+      + DIRECTION OUTPUT
+      + PLACED ( 320 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_33 + NET output_33
+      + DIRECTION OUTPUT
+      + PLACED ( 330 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_34 + NET output_34
+      + DIRECTION OUTPUT
+      + PLACED ( 340 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_35 + NET output_35
+      + DIRECTION OUTPUT
+      + PLACED ( 350 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_36 + NET output_36
+      + DIRECTION OUTPUT
+      + PLACED ( 360 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_37 + NET output_37
+      + DIRECTION OUTPUT
+      + PLACED ( 370 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_38 + NET output_38
+      + DIRECTION OUTPUT
+      + PLACED ( 380 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_39 + NET output_39
+      + DIRECTION OUTPUT
+      + PLACED ( 390 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_40 + NET output_40
+      + DIRECTION OUTPUT
+      + PLACED ( 400 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_41 + NET output_41
+      + DIRECTION OUTPUT
+      + PLACED ( 410 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_42 + NET output_42
+      + DIRECTION OUTPUT
+      + PLACED ( 420 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_43 + NET output_43
+      + DIRECTION OUTPUT
+      + PLACED ( 430 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_44 + NET output_44
+      + DIRECTION OUTPUT
+      + PLACED ( 440 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_45 + NET output_45
+      + DIRECTION OUTPUT
+      + PLACED ( 450 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_46 + NET output_46
+      + DIRECTION OUTPUT
+      + PLACED ( 460 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_47 + NET output_47
+      + DIRECTION OUTPUT
+      + PLACED ( 470 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_48 + NET output_48
+      + DIRECTION OUTPUT
+      + PLACED ( 480 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_49 + NET output_49
+      + DIRECTION OUTPUT
+      + PLACED ( 490 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_50 + NET output_50
+      + DIRECTION OUTPUT
+      + PLACED ( 500 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_51 + NET output_51
+      + DIRECTION OUTPUT
+      + PLACED ( 510 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_52 + NET output_52
+      + DIRECTION OUTPUT
+      + PLACED ( 520 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_53 + NET output_53
+      + DIRECTION OUTPUT
+      + PLACED ( 530 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_54 + NET output_54
+      + DIRECTION OUTPUT
+      + PLACED ( 540 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_55 + NET output_55
+      + DIRECTION OUTPUT
+      + PLACED ( 550 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_56 + NET output_56
+      + DIRECTION OUTPUT
+      + PLACED ( 560 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_57 + NET output_57
+      + DIRECTION OUTPUT
+      + PLACED ( 570 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_58 + NET output_58
+      + DIRECTION OUTPUT
+      + PLACED ( 580 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_59 + NET output_59
+      + DIRECTION OUTPUT
+      + PLACED ( 590 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_60 + NET output_60
+      + DIRECTION OUTPUT
+      + PLACED ( 600 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_61 + NET output_61
+      + DIRECTION OUTPUT
+      + PLACED ( 610 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_62 + NET output_62
+      + DIRECTION OUTPUT
+      + PLACED ( 620 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_63 + NET output_63
+      + DIRECTION OUTPUT
+      + PLACED ( 630 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_64 + NET output_64
+      + DIRECTION OUTPUT
+      + PLACED ( 640 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_65 + NET output_65
+      + DIRECTION OUTPUT
+      + PLACED ( 650 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_66 + NET output_66
+      + DIRECTION OUTPUT
+      + PLACED ( 660 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_67 + NET output_67
+      + DIRECTION OUTPUT
+      + PLACED ( 670 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_68 + NET output_68
+      + DIRECTION OUTPUT
+      + PLACED ( 680 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_69 + NET output_69
+      + DIRECTION OUTPUT
+      + PLACED ( 690 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_70 + NET output_70
+      + DIRECTION OUTPUT
+      + PLACED ( 700 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_71 + NET output_71
+      + DIRECTION OUTPUT
+      + PLACED ( 710 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_72 + NET output_72
+      + DIRECTION OUTPUT
+      + PLACED ( 720 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_73 + NET output_73
+      + DIRECTION OUTPUT
+      + PLACED ( 730 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_74 + NET output_74
+      + DIRECTION OUTPUT
+      + PLACED ( 740 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_75 + NET output_75
+      + DIRECTION OUTPUT
+      + PLACED ( 750 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_76 + NET output_76
+      + DIRECTION OUTPUT
+      + PLACED ( 760 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_77 + NET output_77
+      + DIRECTION OUTPUT
+      + PLACED ( 770 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_78 + NET output_78
+      + DIRECTION OUTPUT
+      + PLACED ( 780 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_79 + NET output_79
+      + DIRECTION OUTPUT
+      + PLACED ( 790 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_80 + NET output_80
+      + DIRECTION OUTPUT
+      + PLACED ( 800 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_81 + NET output_81
+      + DIRECTION OUTPUT
+      + PLACED ( 810 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_82 + NET output_82
+      + DIRECTION OUTPUT
+      + PLACED ( 820 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_83 + NET output_83
+      + DIRECTION OUTPUT
+      + PLACED ( 830 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_84 + NET output_84
+      + DIRECTION OUTPUT
+      + PLACED ( 840 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_85 + NET output_85
+      + DIRECTION OUTPUT
+      + PLACED ( 850 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_86 + NET output_86
+      + DIRECTION OUTPUT
+      + PLACED ( 860 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_87 + NET output_87
+      + DIRECTION OUTPUT
+      + PLACED ( 870 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_88 + NET output_88
+      + DIRECTION OUTPUT
+      + PLACED ( 880 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_89 + NET output_89
+      + DIRECTION OUTPUT
+      + PLACED ( 890 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_90 + NET output_90
+      + DIRECTION OUTPUT
+      + PLACED ( 900 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_91 + NET output_91
+      + DIRECTION OUTPUT
+      + PLACED ( 910 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_92 + NET output_92
+      + DIRECTION OUTPUT
+      + PLACED ( 920 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_93 + NET output_93
+      + DIRECTION OUTPUT
+      + PLACED ( 930 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_94 + NET output_94
+      + DIRECTION OUTPUT
+      + PLACED ( 940 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_95 + NET output_95
+      + DIRECTION OUTPUT
+      + PLACED ( 950 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_96 + NET output_96
+      + DIRECTION OUTPUT
+      + PLACED ( 960 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_97 + NET output_97
+      + DIRECTION OUTPUT
+      + PLACED ( 970 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_98 + NET output_98
+      + DIRECTION OUTPUT
+      + PLACED ( 980 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_99 + NET output_99
+      + DIRECTION OUTPUT
+      + PLACED ( 990 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_100 + NET output_100
+      + DIRECTION OUTPUT
+      + PLACED ( 1000 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_101 + NET output_101
+      + DIRECTION OUTPUT
+      + PLACED ( 1010 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_102 + NET output_102
+      + DIRECTION OUTPUT
+      + PLACED ( 1020 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_103 + NET output_103
+      + DIRECTION OUTPUT
+      + PLACED ( 1030 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_104 + NET output_104
+      + DIRECTION OUTPUT
+      + PLACED ( 1040 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_105 + NET output_105
+      + DIRECTION OUTPUT
+      + PLACED ( 1050 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_106 + NET output_106
+      + DIRECTION OUTPUT
+      + PLACED ( 1060 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_107 + NET output_107
+      + DIRECTION OUTPUT
+      + PLACED ( 1070 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_108 + NET output_108
+      + DIRECTION OUTPUT
+      + PLACED ( 1080 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_109 + NET output_109
+      + DIRECTION OUTPUT
+      + PLACED ( 1090 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_110 + NET output_110
+      + DIRECTION OUTPUT
+      + PLACED ( 1100 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_111 + NET output_111
+      + DIRECTION OUTPUT
+      + PLACED ( 1110 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_112 + NET output_112
+      + DIRECTION OUTPUT
+      + PLACED ( 1120 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_113 + NET output_113
+      + DIRECTION OUTPUT
+      + PLACED ( 1130 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_114 + NET output_114
+      + DIRECTION OUTPUT
+      + PLACED ( 1140 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_115 + NET output_115
+      + DIRECTION OUTPUT
+      + PLACED ( 1150 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_116 + NET output_116
+      + DIRECTION OUTPUT
+      + PLACED ( 1160 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_117 + NET output_117
+      + DIRECTION OUTPUT
+      + PLACED ( 1170 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_118 + NET output_118
+      + DIRECTION OUTPUT
+      + PLACED ( 1180 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_119 + NET output_119
+      + DIRECTION OUTPUT
+      + PLACED ( 1190 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_120 + NET output_120
+      + DIRECTION OUTPUT
+      + PLACED ( 1200 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_121 + NET output_121
+      + DIRECTION OUTPUT
+      + PLACED ( 1210 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_122 + NET output_122
+      + DIRECTION OUTPUT
+      + PLACED ( 1220 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_123 + NET output_123
+      + DIRECTION OUTPUT
+      + PLACED ( 1230 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_124 + NET output_124
+      + DIRECTION OUTPUT
+      + PLACED ( 1240 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_125 + NET output_125
+      + DIRECTION OUTPUT
+      + PLACED ( 1250 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_126 + NET output_126
+      + DIRECTION OUTPUT
+      + PLACED ( 1260 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_127 + NET output_127
+      + DIRECTION OUTPUT
+      + PLACED ( 1270 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_128 + NET output_128
+      + DIRECTION OUTPUT
+      + PLACED ( 1280 30510 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_0 + NET input_0
+      + DIRECTION INPUT
+      + PLACED ( 0 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_1 + NET input_1
+      + DIRECTION INPUT
+      + PLACED ( 10 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_2 + NET input_2
+      + DIRECTION INPUT
+      + PLACED ( 20 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_3 + NET input_3
+      + DIRECTION INPUT
+      + PLACED ( 30 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_4 + NET input_4
+      + DIRECTION INPUT
+      + PLACED ( 40 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_5 + NET input_5
+      + DIRECTION INPUT
+      + PLACED ( 50 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_6 + NET input_6
+      + DIRECTION INPUT
+      + PLACED ( 60 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_7 + NET input_7
+      + DIRECTION INPUT
+      + PLACED ( 70 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_8 + NET input_8
+      + DIRECTION INPUT
+      + PLACED ( 80 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_9 + NET input_9
+      + DIRECTION INPUT
+      + PLACED ( 90 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_10 + NET input_10
+      + DIRECTION INPUT
+      + PLACED ( 100 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_11 + NET input_11
+      + DIRECTION INPUT
+      + PLACED ( 110 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_12 + NET input_12
+      + DIRECTION INPUT
+      + PLACED ( 120 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_13 + NET input_13
+      + DIRECTION INPUT
+      + PLACED ( 130 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_14 + NET input_14
+      + DIRECTION INPUT
+      + PLACED ( 140 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_15 + NET input_15
+      + DIRECTION INPUT
+      + PLACED ( 150 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_16 + NET input_16
+      + DIRECTION INPUT
+      + PLACED ( 160 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_17 + NET input_17
+      + DIRECTION INPUT
+      + PLACED ( 170 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_18 + NET input_18
+      + DIRECTION INPUT
+      + PLACED ( 180 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_19 + NET input_19
+      + DIRECTION INPUT
+      + PLACED ( 190 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_20 + NET input_20
+      + DIRECTION INPUT
+      + PLACED ( 200 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_21 + NET input_21
+      + DIRECTION INPUT
+      + PLACED ( 210 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_22 + NET input_22
+      + DIRECTION INPUT
+      + PLACED ( 220 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_23 + NET input_23
+      + DIRECTION INPUT
+      + PLACED ( 230 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_24 + NET input_24
+      + DIRECTION INPUT
+      + PLACED ( 240 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_25 + NET input_25
+      + DIRECTION INPUT
+      + PLACED ( 250 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_26 + NET input_26
+      + DIRECTION INPUT
+      + PLACED ( 260 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_27 + NET input_27
+      + DIRECTION INPUT
+      + PLACED ( 270 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_28 + NET input_28
+      + DIRECTION INPUT
+      + PLACED ( 280 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_29 + NET input_29
+      + DIRECTION INPUT
+      + PLACED ( 290 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_30 + NET input_30
+      + DIRECTION INPUT
+      + PLACED ( 300 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_31 + NET input_31
+      + DIRECTION INPUT
+      + PLACED ( 310 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_32 + NET input_32
+      + DIRECTION INPUT
+      + PLACED ( 320 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_33 + NET input_33
+      + DIRECTION INPUT
+      + PLACED ( 330 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_34 + NET input_34
+      + DIRECTION INPUT
+      + PLACED ( 340 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_35 + NET input_35
+      + DIRECTION INPUT
+      + PLACED ( 350 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_36 + NET input_36
+      + DIRECTION INPUT
+      + PLACED ( 360 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_37 + NET input_37
+      + DIRECTION INPUT
+      + PLACED ( 370 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_38 + NET input_38
+      + DIRECTION INPUT
+      + PLACED ( 380 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_39 + NET input_39
+      + DIRECTION INPUT
+      + PLACED ( 390 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_40 + NET input_40
+      + DIRECTION INPUT
+      + PLACED ( 400 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_41 + NET input_41
+      + DIRECTION INPUT
+      + PLACED ( 410 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_42 + NET input_42
+      + DIRECTION INPUT
+      + PLACED ( 420 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_43 + NET input_43
+      + DIRECTION INPUT
+      + PLACED ( 430 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_44 + NET input_44
+      + DIRECTION INPUT
+      + PLACED ( 440 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_45 + NET input_45
+      + DIRECTION INPUT
+      + PLACED ( 450 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_46 + NET input_46
+      + DIRECTION INPUT
+      + PLACED ( 460 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_47 + NET input_47
+      + DIRECTION INPUT
+      + PLACED ( 470 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_48 + NET input_48
+      + DIRECTION INPUT
+      + PLACED ( 480 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_49 + NET input_49
+      + DIRECTION INPUT
+      + PLACED ( 490 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_50 + NET input_50
+      + DIRECTION INPUT
+      + PLACED ( 500 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_51 + NET input_51
+      + DIRECTION INPUT
+      + PLACED ( 510 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_52 + NET input_52
+      + DIRECTION INPUT
+      + PLACED ( 520 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_53 + NET input_53
+      + DIRECTION INPUT
+      + PLACED ( 530 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_54 + NET input_54
+      + DIRECTION INPUT
+      + PLACED ( 540 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_55 + NET input_55
+      + DIRECTION INPUT
+      + PLACED ( 550 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_56 + NET input_56
+      + DIRECTION INPUT
+      + PLACED ( 560 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_57 + NET input_57
+      + DIRECTION INPUT
+      + PLACED ( 570 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_58 + NET input_58
+      + DIRECTION INPUT
+      + PLACED ( 580 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_59 + NET input_59
+      + DIRECTION INPUT
+      + PLACED ( 590 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_60 + NET input_60
+      + DIRECTION INPUT
+      + PLACED ( 600 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_61 + NET input_61
+      + DIRECTION INPUT
+      + PLACED ( 610 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_62 + NET input_62
+      + DIRECTION INPUT
+      + PLACED ( 620 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_63 + NET input_63
+      + DIRECTION INPUT
+      + PLACED ( 630 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_64 + NET input_64
+      + DIRECTION INPUT
+      + PLACED ( 640 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_65 + NET input_65
+      + DIRECTION INPUT
+      + PLACED ( 650 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_66 + NET input_66
+      + DIRECTION INPUT
+      + PLACED ( 660 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_67 + NET input_67
+      + DIRECTION INPUT
+      + PLACED ( 670 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_68 + NET input_68
+      + DIRECTION INPUT
+      + PLACED ( 680 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_69 + NET input_69
+      + DIRECTION INPUT
+      + PLACED ( 690 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_70 + NET input_70
+      + DIRECTION INPUT
+      + PLACED ( 700 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_71 + NET input_71
+      + DIRECTION INPUT
+      + PLACED ( 710 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_72 + NET input_72
+      + DIRECTION INPUT
+      + PLACED ( 720 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_73 + NET input_73
+      + DIRECTION INPUT
+      + PLACED ( 730 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_74 + NET input_74
+      + DIRECTION INPUT
+      + PLACED ( 740 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_75 + NET input_75
+      + DIRECTION INPUT
+      + PLACED ( 750 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_76 + NET input_76
+      + DIRECTION INPUT
+      + PLACED ( 760 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_77 + NET input_77
+      + DIRECTION INPUT
+      + PLACED ( 770 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_78 + NET input_78
+      + DIRECTION INPUT
+      + PLACED ( 780 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_79 + NET input_79
+      + DIRECTION INPUT
+      + PLACED ( 790 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_80 + NET input_80
+      + DIRECTION INPUT
+      + PLACED ( 800 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_81 + NET input_81
+      + DIRECTION INPUT
+      + PLACED ( 810 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_82 + NET input_82
+      + DIRECTION INPUT
+      + PLACED ( 820 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_83 + NET input_83
+      + DIRECTION INPUT
+      + PLACED ( 830 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_84 + NET input_84
+      + DIRECTION INPUT
+      + PLACED ( 840 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_85 + NET input_85
+      + DIRECTION INPUT
+      + PLACED ( 850 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_86 + NET input_86
+      + DIRECTION INPUT
+      + PLACED ( 860 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_87 + NET input_87
+      + DIRECTION INPUT
+      + PLACED ( 870 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_88 + NET input_88
+      + DIRECTION INPUT
+      + PLACED ( 880 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_89 + NET input_89
+      + DIRECTION INPUT
+      + PLACED ( 890 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_90 + NET input_90
+      + DIRECTION INPUT
+      + PLACED ( 900 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_91 + NET input_91
+      + DIRECTION INPUT
+      + PLACED ( 910 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_92 + NET input_92
+      + DIRECTION INPUT
+      + PLACED ( 920 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_93 + NET input_93
+      + DIRECTION INPUT
+      + PLACED ( 930 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_94 + NET input_94
+      + DIRECTION INPUT
+      + PLACED ( 940 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_95 + NET input_95
+      + DIRECTION INPUT
+      + PLACED ( 950 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_96 + NET input_96
+      + DIRECTION INPUT
+      + PLACED ( 960 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_97 + NET input_97
+      + DIRECTION INPUT
+      + PLACED ( 970 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_98 + NET input_98
+      + DIRECTION INPUT
+      + PLACED ( 980 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_99 + NET input_99
+      + DIRECTION INPUT
+      + PLACED ( 990 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_100 + NET input_100
+      + DIRECTION INPUT
+      + PLACED ( 1000 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_101 + NET input_101
+      + DIRECTION INPUT
+      + PLACED ( 1010 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_102 + NET input_102
+      + DIRECTION INPUT
+      + PLACED ( 1020 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_103 + NET input_103
+      + DIRECTION INPUT
+      + PLACED ( 1030 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_104 + NET input_104
+      + DIRECTION INPUT
+      + PLACED ( 1040 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_105 + NET input_105
+      + DIRECTION INPUT
+      + PLACED ( 1050 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_106 + NET input_106
+      + DIRECTION INPUT
+      + PLACED ( 1060 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_107 + NET input_107
+      + DIRECTION INPUT
+      + PLACED ( 1070 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_108 + NET input_108
+      + DIRECTION INPUT
+      + PLACED ( 1080 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_109 + NET input_109
+      + DIRECTION INPUT
+      + PLACED ( 1090 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_110 + NET input_110
+      + DIRECTION INPUT
+      + PLACED ( 1100 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_111 + NET input_111
+      + DIRECTION INPUT
+      + PLACED ( 1110 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_112 + NET input_112
+      + DIRECTION INPUT
+      + PLACED ( 1120 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_113 + NET input_113
+      + DIRECTION INPUT
+      + PLACED ( 1130 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_114 + NET input_114
+      + DIRECTION INPUT
+      + PLACED ( 1140 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_115 + NET input_115
+      + DIRECTION INPUT
+      + PLACED ( 1150 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_116 + NET input_116
+      + DIRECTION INPUT
+      + PLACED ( 1160 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_117 + NET input_117
+      + DIRECTION INPUT
+      + PLACED ( 1170 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_118 + NET input_118
+      + DIRECTION INPUT
+      + PLACED ( 1180 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_119 + NET input_119
+      + DIRECTION INPUT
+      + PLACED ( 1190 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_120 + NET input_120
+      + DIRECTION INPUT
+      + PLACED ( 1200 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_121 + NET input_121
+      + DIRECTION INPUT
+      + PLACED ( 1210 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_122 + NET input_122
+      + DIRECTION INPUT
+      + PLACED ( 1220 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_123 + NET input_123
+      + DIRECTION INPUT
+      + PLACED ( 1230 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_124 + NET input_124
+      + DIRECTION INPUT
+      + PLACED ( 1240 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_125 + NET input_125
+      + DIRECTION INPUT
+      + PLACED ( 1250 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_126 + NET input_126
+      + DIRECTION INPUT
+      + PLACED ( 1260 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_127 + NET input_127
+      + DIRECTION INPUT
+      + PLACED ( 1270 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_128 + NET input_128
+      + DIRECTION INPUT
+      + PLACED ( 1280 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_129 + NET input_129
+      + DIRECTION INPUT
+      + PLACED ( 1290 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_130 + NET input_130
+      + DIRECTION INPUT
+      + PLACED ( 1300 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_131 + NET input_131
+      + DIRECTION INPUT
+      + PLACED ( 1310 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_132 + NET input_132
+      + DIRECTION INPUT
+      + PLACED ( 1320 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_133 + NET input_133
+      + DIRECTION INPUT
+      + PLACED ( 1330 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_134 + NET input_134
+      + DIRECTION INPUT
+      + PLACED ( 1340 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_135 + NET input_135
+      + DIRECTION INPUT
+      + PLACED ( 1350 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_136 + NET input_136
+      + DIRECTION INPUT
+      + PLACED ( 1360 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_137 + NET input_137
+      + DIRECTION INPUT
+      + PLACED ( 1370 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_138 + NET input_138
+      + DIRECTION INPUT
+      + PLACED ( 1380 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_139 + NET input_139
+      + DIRECTION INPUT
+      + PLACED ( 1390 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_140 + NET input_140
+      + DIRECTION INPUT
+      + PLACED ( 1400 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_141 + NET input_141
+      + DIRECTION INPUT
+      + PLACED ( 1410 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_142 + NET input_142
+      + DIRECTION INPUT
+      + PLACED ( 1420 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_143 + NET input_143
+      + DIRECTION INPUT
+      + PLACED ( 1430 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_144 + NET input_144
+      + DIRECTION INPUT
+      + PLACED ( 1440 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_145 + NET input_145
+      + DIRECTION INPUT
+      + PLACED ( 1450 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_146 + NET input_146
+      + DIRECTION INPUT
+      + PLACED ( 1460 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_147 + NET input_147
+      + DIRECTION INPUT
+      + PLACED ( 1470 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_148 + NET input_148
+      + DIRECTION INPUT
+      + PLACED ( 1480 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_149 + NET input_149
+      + DIRECTION INPUT
+      + PLACED ( 1490 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_150 + NET input_150
+      + DIRECTION INPUT
+      + PLACED ( 1500 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_151 + NET input_151
+      + DIRECTION INPUT
+      + PLACED ( 1510 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_152 + NET input_152
+      + DIRECTION INPUT
+      + PLACED ( 1520 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_153 + NET input_153
+      + DIRECTION INPUT
+      + PLACED ( 1530 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_154 + NET input_154
+      + DIRECTION INPUT
+      + PLACED ( 1540 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_155 + NET input_155
+      + DIRECTION INPUT
+      + PLACED ( 1550 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_156 + NET input_156
+      + DIRECTION INPUT
+      + PLACED ( 1560 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_157 + NET input_157
+      + DIRECTION INPUT
+      + PLACED ( 1570 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_158 + NET input_158
+      + DIRECTION INPUT
+      + PLACED ( 1580 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_159 + NET input_159
+      + DIRECTION INPUT
+      + PLACED ( 1590 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_160 + NET input_160
+      + DIRECTION INPUT
+      + PLACED ( 1600 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_161 + NET input_161
+      + DIRECTION INPUT
+      + PLACED ( 1610 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_162 + NET input_162
+      + DIRECTION INPUT
+      + PLACED ( 1620 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_163 + NET input_163
+      + DIRECTION INPUT
+      + PLACED ( 1630 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_164 + NET input_164
+      + DIRECTION INPUT
+      + PLACED ( 1640 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_165 + NET input_165
+      + DIRECTION INPUT
+      + PLACED ( 1650 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_166 + NET input_166
+      + DIRECTION INPUT
+      + PLACED ( 1660 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_167 + NET input_167
+      + DIRECTION INPUT
+      + PLACED ( 1670 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_168 + NET input_168
+      + DIRECTION INPUT
+      + PLACED ( 1680 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_169 + NET input_169
+      + DIRECTION INPUT
+      + PLACED ( 1690 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_170 + NET input_170
+      + DIRECTION INPUT
+      + PLACED ( 1700 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_171 + NET input_171
+      + DIRECTION INPUT
+      + PLACED ( 1710 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_172 + NET input_172
+      + DIRECTION INPUT
+      + PLACED ( 1720 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_173 + NET input_173
+      + DIRECTION INPUT
+      + PLACED ( 1730 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_174 + NET input_174
+      + DIRECTION INPUT
+      + PLACED ( 1740 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_175 + NET input_175
+      + DIRECTION INPUT
+      + PLACED ( 1750 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_176 + NET input_176
+      + DIRECTION INPUT
+      + PLACED ( 1760 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_177 + NET input_177
+      + DIRECTION INPUT
+      + PLACED ( 1770 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_178 + NET input_178
+      + DIRECTION INPUT
+      + PLACED ( 1780 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_179 + NET input_179
+      + DIRECTION INPUT
+      + PLACED ( 1790 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_180 + NET input_180
+      + DIRECTION INPUT
+      + PLACED ( 1800 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_181 + NET input_181
+      + DIRECTION INPUT
+      + PLACED ( 1810 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_182 + NET input_182
+      + DIRECTION INPUT
+      + PLACED ( 1820 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_183 + NET input_183
+      + DIRECTION INPUT
+      + PLACED ( 1830 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_184 + NET input_184
+      + DIRECTION INPUT
+      + PLACED ( 1840 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_185 + NET input_185
+      + DIRECTION INPUT
+      + PLACED ( 1850 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_186 + NET input_186
+      + DIRECTION INPUT
+      + PLACED ( 1860 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_187 + NET input_187
+      + DIRECTION INPUT
+      + PLACED ( 1870 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_188 + NET input_188
+      + DIRECTION INPUT
+      + PLACED ( 1880 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_189 + NET input_189
+      + DIRECTION INPUT
+      + PLACED ( 1890 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_190 + NET input_190
+      + DIRECTION INPUT
+      + PLACED ( 1900 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_191 + NET input_191
+      + DIRECTION INPUT
+      + PLACED ( 1910 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_192 + NET input_192
+      + DIRECTION INPUT
+      + PLACED ( 1920 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_193 + NET input_193
+      + DIRECTION INPUT
+      + PLACED ( 1930 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_194 + NET input_194
+      + DIRECTION INPUT
+      + PLACED ( 1940 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_195 + NET input_195
+      + DIRECTION INPUT
+      + PLACED ( 1950 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_196 + NET input_196
+      + DIRECTION INPUT
+      + PLACED ( 1960 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_197 + NET input_197
+      + DIRECTION INPUT
+      + PLACED ( 1970 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_198 + NET input_198
+      + DIRECTION INPUT
+      + PLACED ( 1980 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_199 + NET input_199
+      + DIRECTION INPUT
+      + PLACED ( 1990 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_200 + NET input_200
+      + DIRECTION INPUT
+      + PLACED ( 2000 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_201 + NET input_201
+      + DIRECTION INPUT
+      + PLACED ( 2010 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_202 + NET input_202
+      + DIRECTION INPUT
+      + PLACED ( 2020 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_203 + NET input_203
+      + DIRECTION INPUT
+      + PLACED ( 2030 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_204 + NET input_204
+      + DIRECTION INPUT
+      + PLACED ( 2040 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_205 + NET input_205
+      + DIRECTION INPUT
+      + PLACED ( 2050 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_206 + NET input_206
+      + DIRECTION INPUT
+      + PLACED ( 2060 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_207 + NET input_207
+      + DIRECTION INPUT
+      + PLACED ( 2070 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_208 + NET input_208
+      + DIRECTION INPUT
+      + PLACED ( 2080 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_209 + NET input_209
+      + DIRECTION INPUT
+      + PLACED ( 2090 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_210 + NET input_210
+      + DIRECTION INPUT
+      + PLACED ( 2100 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_211 + NET input_211
+      + DIRECTION INPUT
+      + PLACED ( 2110 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_212 + NET input_212
+      + DIRECTION INPUT
+      + PLACED ( 2120 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_213 + NET input_213
+      + DIRECTION INPUT
+      + PLACED ( 2130 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_214 + NET input_214
+      + DIRECTION INPUT
+      + PLACED ( 2140 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_215 + NET input_215
+      + DIRECTION INPUT
+      + PLACED ( 2150 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_216 + NET input_216
+      + DIRECTION INPUT
+      + PLACED ( 2160 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_217 + NET input_217
+      + DIRECTION INPUT
+      + PLACED ( 2170 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_218 + NET input_218
+      + DIRECTION INPUT
+      + PLACED ( 2180 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_219 + NET input_219
+      + DIRECTION INPUT
+      + PLACED ( 2190 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_220 + NET input_220
+      + DIRECTION INPUT
+      + PLACED ( 2200 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_221 + NET input_221
+      + DIRECTION INPUT
+      + PLACED ( 2210 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_222 + NET input_222
+      + DIRECTION INPUT
+      + PLACED ( 2220 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_223 + NET input_223
+      + DIRECTION INPUT
+      + PLACED ( 2230 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_224 + NET input_224
+      + DIRECTION INPUT
+      + PLACED ( 2240 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_225 + NET input_225
+      + DIRECTION INPUT
+      + PLACED ( 2250 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_226 + NET input_226
+      + DIRECTION INPUT
+      + PLACED ( 2260 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_227 + NET input_227
+      + DIRECTION INPUT
+      + PLACED ( 2270 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_228 + NET input_228
+      + DIRECTION INPUT
+      + PLACED ( 2280 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_229 + NET input_229
+      + DIRECTION INPUT
+      + PLACED ( 2290 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_230 + NET input_230
+      + DIRECTION INPUT
+      + PLACED ( 2300 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_231 + NET input_231
+      + DIRECTION INPUT
+      + PLACED ( 2310 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_232 + NET input_232
+      + DIRECTION INPUT
+      + PLACED ( 2320 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_233 + NET input_233
+      + DIRECTION INPUT
+      + PLACED ( 2330 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_234 + NET input_234
+      + DIRECTION INPUT
+      + PLACED ( 2340 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_235 + NET input_235
+      + DIRECTION INPUT
+      + PLACED ( 2350 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_236 + NET input_236
+      + DIRECTION INPUT
+      + PLACED ( 2360 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_237 + NET input_237
+      + DIRECTION INPUT
+      + PLACED ( 2370 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_238 + NET input_238
+      + DIRECTION INPUT
+      + PLACED ( 2380 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_239 + NET input_239
+      + DIRECTION INPUT
+      + PLACED ( 2390 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_240 + NET input_240
+      + DIRECTION INPUT
+      + PLACED ( 2400 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_241 + NET input_241
+      + DIRECTION INPUT
+      + PLACED ( 2410 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_242 + NET input_242
+      + DIRECTION INPUT
+      + PLACED ( 2420 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_243 + NET input_243
+      + DIRECTION INPUT
+      + PLACED ( 2430 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_244 + NET input_244
+      + DIRECTION INPUT
+      + PLACED ( 2440 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_245 + NET input_245
+      + DIRECTION INPUT
+      + PLACED ( 2450 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_246 + NET input_246
+      + DIRECTION INPUT
+      + PLACED ( 2460 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_247 + NET input_247
+      + DIRECTION INPUT
+      + PLACED ( 2470 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_248 + NET input_248
+      + DIRECTION INPUT
+      + PLACED ( 2480 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_249 + NET input_249
+      + DIRECTION INPUT
+      + PLACED ( 2490 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_250 + NET input_250
+      + DIRECTION INPUT
+      + PLACED ( 2500 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_251 + NET input_251
+      + DIRECTION INPUT
+      + PLACED ( 2510 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_252 + NET input_252
+      + DIRECTION INPUT
+      + PLACED ( 2520 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_253 + NET input_253
+      + DIRECTION INPUT
+      + PLACED ( 2530 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_254 + NET input_254
+      + DIRECTION INPUT
+      + PLACED ( 2540 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_255 + NET input_255
+      + DIRECTION INPUT
+      + PLACED ( 2550 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+    - input_clk + NET input_clk
+      + DIRECTION INPUT
+      + PLACED ( 2560 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+END PINS

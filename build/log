@@ -1,0 +1,15 @@
+In file included from /home/panhongxiang/phyLS/src/commands/ic_map.hpp:24,
+                 from /home/panhongxiang/phyLS/src/phyLS.cpp:83:
+/home/panhongxiang/phyLS/src/commands/../core/mapper_MCTS.hpp: In instantiation of ‘mockturtle::detail::tech_incre_map_impl<Ntk, CutSize, CutData, NInputs, Configuration>::tech_incre_map_impl(const Ntk&, const mockturtle::tech_library<NInputs, Configuration>&, const mockturtle::tech_library<NInputs, Configuration>&, const std::vector<mockturtle::node_position>&, const mockturtle::map_params&, mockturtle::map_stats&) [with Ntk = mockturtle::aig_network; unsigned int CutSize = 5; CutData = mockturtle::cut_enumeration_tech_map_cut; unsigned int NInputs = 5; mockturtle::classification_type Configuration = (mockturtle::classification_type)0]’:
+/home/panhongxiang/phyLS/src/commands/../core/mapper_MCTS.hpp:3021:78:   required from ‘mockturtle::binding_view<mockturtle::klut_network> mockturtle::map_mcts(const Ntk&, const mockturtle::tech_library<NInputs, Configuration>&, const mockturtle::tech_library<NInputs, Configuration>&, const std::vector<mockturtle::node_position>&, const mockturtle::map_params&, mockturtle::map_stats*) [with Ntk = mockturtle::aig_network; unsigned int CutSize = 5; CutData = mockturtle::cut_enumeration_tech_map_cut; unsigned int NInputs = 5; mockturtle::classification_type Configuration = (mockturtle::classification_type)0]’
+/home/panhongxiang/phyLS/src/commands/ic_map.hpp:108:71:   required from here
+/home/panhongxiang/phyLS/src/commands/../core/mapper_MCTS.hpp:2929:18: warning: ‘mockturtle::detail::tech_incre_map_impl<mockturtle::aig_network, 5, mockturtle::cut_enumeration_tech_map_cut, 5, (mockturtle::classification_type)0>::cuts_unmapped’ will be initialized after [-Wreorder]
+   network_cuts_t cuts_unmapped;
+                  ^~~~~~~~~~~~~
+/home/panhongxiang/phyLS/src/commands/../core/mapper_MCTS.hpp:2924:30: warning:   ‘std::vector<mockturtle::node_position> mockturtle::detail::tech_incre_map_impl<mockturtle::aig_network, 5, mockturtle::cut_enumeration_tech_map_cut, 5, (mockturtle::classification_type)0>::match_position’ [-Wreorder]
+   std::vector<node_position> match_position;
+                              ^~~~~~~~~~~~~~
+/home/panhongxiang/phyLS/src/commands/../core/mapper_MCTS.hpp:208:12: warning:   when initialized here [-Wreorder]
+   explicit tech_incre_map_impl(
+            ^~~~~~~~~~~~~~~~~~~
+cc1plus: warning: unrecognized command line option ‘-Wno-unneeded-internal-declaration’

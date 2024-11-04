@@ -1,0 +1,49 @@
+COMPONENTS 6 ;
+   - and_6_ and
+      + PLACED ( 13 70 ) N ;
+   - and_7_ and
+      + PLACED ( 14 33 ) N ;
+   - and_8_ and
+      + PLACED ( 18 71 ) N ;
+   - and_9_ and
+      + PLACED ( 17 66 ) N ;
+   - and_10_ and
+      + PLACED ( 24 47 ) N ;
+   - and_11_ and
+      + PLACED ( 28 56 ) N ;
+END COMPONENTS
+
+PINS 8 ;
+   - output_0 + NET output_0
+      + DIRECTION OUTPUT
+      + PLACED ( 0 130 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - output_1 + NET output_1
+      + DIRECTION OUTPUT
+      + PLACED ( 10 130 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_0 + NET input_0
+      + DIRECTION INPUT
+      + PLACED ( 0 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_1 + NET input_1
+      + DIRECTION INPUT
+      + PLACED ( 10 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_2 + NET input_2
+      + DIRECTION INPUT
+      + PLACED ( 20 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_3 + NET input_3
+      + DIRECTION INPUT
+      + PLACED ( 30 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+   - input_4 + NET input_4
+      + DIRECTION INPUT
+      + PLACED ( 40 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+    - input_clk + NET input_clk
+      + DIRECTION INPUT
+      + PLACED ( 50 0 ) N
+      + LAYER metal3 ( 0 0 ) ( 510 100 ) ;
+END PINS

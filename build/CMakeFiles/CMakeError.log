@@ -1,0 +1,580 @@
+Performing C++ SOURCE FILE Test HAS_FCOLOR_DIAGNOSTICS failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_5202e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_5202e.dir/build.make CMakeFiles/cmTC_5202e.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5202e.dir/src.cxx.o
+/opt/rh/devtoolset-8/root/usr/bin/c++ -DHAS_FCOLOR_DIAGNOSTICS  -fcolor-diagnostics -std=gnu++17 -o CMakeFiles/cmTC_5202e.dir/src.cxx.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-fcolor-diagnostics'
+gmake[1]: *** [CMakeFiles/cmTC_5202e.dir/build.make:78: CMakeFiles/cmTC_5202e.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_5202e/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAS_WNO_gnu-anonymous-struct failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_cf300/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_cf300.dir/build.make CMakeFiles/cmTC_cf300.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_cf300.dir/src.cxx.o
+/opt/rh/devtoolset-8/root/usr/bin/c++   -DHAS_WNO_gnu-anonymous-struct -Wno-gnu-anonymous-struct -std=gnu++17 -o CMakeFiles/cmTC_cf300.dir/src.cxx.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+cc1plus: warning: unrecognized command line option '-Wno-gnu-anonymous-struct'
+Linking CXX executable cmTC_cf300
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cf300.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/c++ CMakeFiles/cmTC_cf300.dir/src.cxx.o -o cmTC_cf300 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAS_WNO_nested-anon-types failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_14727/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_14727.dir/build.make CMakeFiles/cmTC_14727.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_14727.dir/src.cxx.o
+/opt/rh/devtoolset-8/root/usr/bin/c++   -DHAS_WNO_nested-anon-types -Wno-nested-anon-types -std=gnu++17 -o CMakeFiles/cmTC_14727.dir/src.cxx.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+cc1plus: warning: unrecognized command line option '-Wno-nested-anon-types'
+Linking CXX executable cmTC_14727
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_14727.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/c++ CMakeFiles/cmTC_14727.dir/src.cxx.o -o cmTC_14727 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAS_WNO_unused-lambda-capture failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_5b394/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_5b394.dir/build.make CMakeFiles/cmTC_5b394.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5b394.dir/src.cxx.o
+/opt/rh/devtoolset-8/root/usr/bin/c++   -DHAS_WNO_unused-lambda-capture -Wno-unused-lambda-capture -std=gnu++17 -o CMakeFiles/cmTC_5b394.dir/src.cxx.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+cc1plus: warning: unrecognized command line option '-Wno-unused-lambda-capture'
+Linking CXX executable cmTC_5b394
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5b394.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/c++ CMakeFiles/cmTC_5b394.dir/src.cxx.o -o cmTC_5b394 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAS_WNO_unused-private-field failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_27716/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_27716.dir/build.make CMakeFiles/cmTC_27716.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_27716.dir/src.cxx.o
+/opt/rh/devtoolset-8/root/usr/bin/c++   -DHAS_WNO_unused-private-field -Wno-unused-private-field -std=gnu++17 -o CMakeFiles/cmTC_27716.dir/src.cxx.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+cc1plus: warning: unrecognized command line option '-Wno-unused-private-field'
+Linking CXX executable cmTC_27716
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_27716.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/c++ CMakeFiles/cmTC_27716.dir/src.cxx.o -o cmTC_27716 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAS_WNO_inconsistent-missing-override failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_74834/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_74834.dir/build.make CMakeFiles/cmTC_74834.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_74834.dir/src.cxx.o
+/opt/rh/devtoolset-8/root/usr/bin/c++   -DHAS_WNO_inconsistent-missing-override -Wno-inconsistent-missing-override -std=gnu++17 -o CMakeFiles/cmTC_74834.dir/src.cxx.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+cc1plus: warning: unrecognized command line option '-Wno-inconsistent-missing-override'
+Linking CXX executable cmTC_74834
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_74834.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/c++ CMakeFiles/cmTC_74834.dir/src.cxx.o -o cmTC_74834 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_18a7f/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_18a7f.dir/build.make CMakeFiles/cmTC_18a7f.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_18a7f.dir/src.cxx.o
+/opt/rh/devtoolset-8/root/usr/bin/c++ -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++17 -o CMakeFiles/cmTC_18a7f.dir/src.cxx.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_18a7f
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_18a7f.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/c++ CMakeFiles/cmTC_18a7f.dir/src.cxx.o -o cmTC_18a7f 
+CMakeFiles/cmTC_18a7f.dir/src.cxx.o: In function `main':
+src.cxx:(.text+0x2d): undefined reference to `pthread_create'
+src.cxx:(.text+0x39): undefined reference to `pthread_detach'
+src.cxx:(.text+0x45): undefined reference to `pthread_cancel'
+src.cxx:(.text+0x56): undefined reference to `pthread_join'
+src.cxx:(.text+0x6a): undefined reference to `pthread_atfork'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_18a7f.dir/build.make:99: cmTC_18a7f] Error 1
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_18a7f/fast] Error 2
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-fpermissive failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_2c424/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_2c424.dir/build.make CMakeFiles/cmTC_2c424.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2c424.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-fpermissive -fpermissive -o CMakeFiles/cmTC_2c424.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-fpermissive' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_2c424
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2c424.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_2c424.dir/src.c.o -o cmTC_2c424 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-x failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_83717/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_83717.dir/build.make CMakeFiles/cmTC_83717.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_83717.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-x -x -o CMakeFiles/cmTC_83717.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc: error: CMakeFiles/cmTC_83717.dir/src.c.o: No such file or directory
+gmake[1]: *** [CMakeFiles/cmTC_83717.dir/build.make:78: CMakeFiles/cmTC_83717.dir/src.c.o] Error 1
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_83717/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_COMPILER_SUPPORTS__-x failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_74cdf/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_74cdf.dir/build.make CMakeFiles/cmTC_74cdf.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_74cdf.dir/src.cxx.o
+/opt/rh/devtoolset-8/root/usr/bin/c++   -DCXX_COMPILER_SUPPORTS__-x -x -std=gnu++17 -o CMakeFiles/cmTC_74cdf.dir/src.cxx.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: language -std=gnu++17 not recognized
+c++: error: language -std=gnu++17 not recognized
+gmake[1]: *** [CMakeFiles/cmTC_74cdf.dir/build.make:78: CMakeFiles/cmTC_74cdf.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_74cdf/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__c++ failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_6b5c3/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_6b5c3.dir/build.make CMakeFiles/cmTC_6b5c3.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6b5c3.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__c++ c++ -o CMakeFiles/cmTC_6b5c3.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc: error: c++: No such file or directory
+gmake[1]: *** [CMakeFiles/cmTC_6b5c3.dir/build.make:78: CMakeFiles/cmTC_6b5c3.dir/src.c.o] Error 1
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_6b5c3/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_COMPILER_SUPPORTS__c++ failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_ec734/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_ec734.dir/build.make CMakeFiles/cmTC_ec734.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ec734.dir/src.cxx.o
+/opt/rh/devtoolset-8/root/usr/bin/c++   -DCXX_COMPILER_SUPPORTS__c++ c++ -std=gnu++17 -o CMakeFiles/cmTC_ec734.dir/src.cxx.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: c++: No such file or directory
+gmake[1]: *** [CMakeFiles/cmTC_ec734.dir/build.make:78: CMakeFiles/cmTC_ec734.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_ec734/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_d0e38/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_d0e38.dir/build.make CMakeFiles/cmTC_d0e38.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d0e38.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_d0e38.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_d0e38
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d0e38.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_d0e38.dir/src.c.o -o cmTC_d0e38 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_bee15/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_bee15.dir/build.make CMakeFiles/cmTC_bee15.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bee15.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_bee15.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_bee15
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bee15.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_bee15.dir/src.c.o -o cmTC_bee15 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_51680/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_51680.dir/build.make CMakeFiles/cmTC_51680.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_51680.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_51680.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_51680
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_51680.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_51680.dir/src.c.o -o cmTC_51680 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_8e460/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_8e460.dir/build.make CMakeFiles/cmTC_8e460.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8e460.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_8e460.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_8e460
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8e460.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_8e460.dir/src.c.o -o cmTC_8e460 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_83e0f/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_83e0f.dir/build.make CMakeFiles/cmTC_83e0f.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_83e0f.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_83e0f.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_83e0f
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_83e0f.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_83e0f.dir/src.c.o -o cmTC_83e0f 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_51dc5/fast && gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+/usr/bin/gmake  -f CMakeFiles/cmTC_51dc5.dir/build.make CMakeFiles/cmTC_51dc5.dir/build
+gmake[2]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_51dc5.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_51dc5.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_51dc5
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_51dc5.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_51dc5.dir/src.c.o -o cmTC_51dc5 
+gmake[2]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_a8960/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_a8960.dir/build.make CMakeFiles/cmTC_a8960.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a8960.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_a8960.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_a8960
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a8960.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_a8960.dir/src.c.o -o cmTC_a8960 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_8aff6/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_8aff6.dir/build.make CMakeFiles/cmTC_8aff6.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8aff6.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_8aff6.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_8aff6
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8aff6.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_8aff6.dir/src.c.o -o cmTC_8aff6 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_045d6/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_045d6.dir/build.make CMakeFiles/cmTC_045d6.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_045d6.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_045d6.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_045d6
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_045d6.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_045d6.dir/src.c.o -o cmTC_045d6 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_11623/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_11623.dir/build.make CMakeFiles/cmTC_11623.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_11623.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_11623.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_11623
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_11623.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_11623.dir/src.c.o -o cmTC_11623 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_26d9c/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_26d9c.dir/build.make CMakeFiles/cmTC_26d9c.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_26d9c.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_26d9c.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_26d9c
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_26d9c.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_26d9c.dir/src.c.o -o cmTC_26d9c 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_9b6f4/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_9b6f4.dir/build.make CMakeFiles/cmTC_9b6f4.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9b6f4.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_9b6f4.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_9b6f4
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9b6f4.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_9b6f4.dir/src.c.o -o cmTC_9b6f4 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_a7082/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_a7082.dir/build.make CMakeFiles/cmTC_a7082.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a7082.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_a7082.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_a7082
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a7082.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_a7082.dir/src.c.o -o cmTC_a7082 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_24727/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_24727.dir/build.make CMakeFiles/cmTC_24727.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_24727.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_24727.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_24727
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_24727.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_24727.dir/src.c.o -o cmTC_24727 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_36a88/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_36a88.dir/build.make CMakeFiles/cmTC_36a88.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_36a88.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_36a88.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_36a88
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_36a88.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_36a88.dir/src.c.o -o cmTC_36a88 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_3ed8c/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_3ed8c.dir/build.make CMakeFiles/cmTC_3ed8c.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3ed8c.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_3ed8c.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_3ed8c
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3ed8c.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_3ed8c.dir/src.c.o -o cmTC_3ed8c 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_559c3/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_559c3.dir/build.make CMakeFiles/cmTC_559c3.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_559c3.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_559c3.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_559c3
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_559c3.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_559c3.dir/src.c.o -o cmTC_559c3 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_b7412/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_b7412.dir/build.make CMakeFiles/cmTC_b7412.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b7412.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_b7412.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_b7412
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b7412.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_b7412.dir/src.c.o -o cmTC_b7412 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_b6a23/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_b6a23.dir/build.make CMakeFiles/cmTC_b6a23.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b6a23.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_b6a23.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_b6a23
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b6a23.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_b6a23.dir/src.c.o -o cmTC_b6a23 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_73c34/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_73c34.dir/build.make CMakeFiles/cmTC_73c34.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_73c34.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_73c34.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_73c34
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_73c34.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_73c34.dir/src.c.o -o cmTC_73c34 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_COMPILER_SUPPORTS__-std=c++17 failed with the following output:
+Change Dir: /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_65f1b/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_65f1b.dir/build.make CMakeFiles/cmTC_65f1b.dir/build
+gmake[1]: Entering directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_65f1b.dir/src.c.o
+/opt/rh/devtoolset-8/root/usr/bin/cc   -DC_COMPILER_SUPPORTS__-std=c++17 -std=c++17 -o CMakeFiles/cmTC_65f1b.dir/src.c.o -c /home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-std=c++17' is valid for C++/ObjC++ but not for C
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_65f1b
+/home/panhongxiang/common/centos/bin/cmake -E cmake_link_script CMakeFiles/cmTC_65f1b.dir/link.txt --verbose=1
+/opt/rh/devtoolset-8/root/usr/bin/cc CMakeFiles/cmTC_65f1b.dir/src.c.o -o cmTC_65f1b 
+gmake[1]: Leaving directory '/home/panhongxiang/phyLS/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }

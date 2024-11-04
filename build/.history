@@ -1,0 +1,8 @@
+read_bench ../../easy.bench
+ps -l
+lutrw
+write_bench -l easy.bench
+quit
+read_bench ../../medium.bench
+quit
+quit
